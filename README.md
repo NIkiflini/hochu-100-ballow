@@ -51,3 +51,6 @@ git clone git@github.com:NIkiflini/hochu-100-ballow.git
 ## Usage
 
 теперь вы можете использовать эти пустые папки по своему назначению, называть их смешными именами, удалять и перемещать.
+
+
+<a href="https://www.youtube.com/watch?v=g7tzDP3oI2Y"><img img height="200" src="https://www.meme-arsenal.com/memes/95e70dd41d08a718929e98c18c327d7f.jpg"></a>
